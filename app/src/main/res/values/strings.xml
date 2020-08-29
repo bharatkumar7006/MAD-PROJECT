@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Puzzle Game</string>
+    <string name="welcome_to_image_puzzle_game">Welcome to Image Puzzle Game</string>
+    <string name="todo">TODO</string>
+    <string name="congratulation">Congratulation!!! You have won the game</string>
+    <string name="title_by_default">Image Puzzle Game</string>
+    <string name="success">Success</string>
+</resources>
